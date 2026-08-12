@@ -1,5 +1,13 @@
 # Llama Native Kit
 
+> [!IMPORTANT]
+> This source repository is frozen. Canonical development moved to
+> [`delysis/native-platform/crates/native`](https://github.com/delysis/native-platform/tree/main/crates/native)
+> after the W3 history import. Do not open feature pull requests here. Open new
+> issues in [`delysis/native-platform`](https://github.com/delysis/native-platform/issues);
+> this repository remains unarchived only for provenance and its two-release
+> retirement window.
+
 Reusable, product-neutral Rust crates for loading GGUF models through llama.cpp
 inside the caller's process.
 
